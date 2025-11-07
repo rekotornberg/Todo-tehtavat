@@ -1,0 +1,19 @@
+#root {
+  display: block;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+#container {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+
+li {
+  margin-bottom: 8px;
+}
+
+.delete-button {
+  margin-left: 16px;
+}
