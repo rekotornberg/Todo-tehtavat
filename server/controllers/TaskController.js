@@ -30,6 +30,7 @@ const postTask = async (req, res, next) => {
   }
 }
 
+// poistaa taskin id:n perusteella
 
 const deleteTask = async (req, res, next) => {
   const { id } = req.params
